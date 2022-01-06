@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="40" style="vertical-align:top; margin:4px;"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="60" style="vertical-align:top; margin:4px;"
   </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
