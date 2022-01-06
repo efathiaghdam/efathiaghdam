@@ -61,3 +61,8 @@
   </a>
 </p>
 <br/>
+
+ ## 💹 **Activity Graph**
+
+![ github activity graph](https://activity-graph.herokuapp.com/graph?username=efathiaghdam&theme=github&area=true)
+ <br />
