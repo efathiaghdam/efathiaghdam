@@ -30,13 +30,21 @@
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
-
   <a href="https://angular.io">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>  
+  <a href="https://www.microsoft.com/en-us/sql-server/">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" style="vertical-align:top; margin:4px">
+  </a>
+ <a href="https://www.postgresql.org/">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" style="vertical-align:top; margin:4px">
+  </a>
   <a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
