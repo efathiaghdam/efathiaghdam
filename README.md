@@ -36,9 +36,6 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" height="60px" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>  
-  <a href="https://www.microsoft.com/en-us/sql-server/">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="60px" alt="sql server" style="vertical-align:top; margin:4px">
-  </a>
   <a href="https://www.mysql.com/">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" height="60px" alt="mysql" style="vertical-align:top; margin:4px">
   </a>
