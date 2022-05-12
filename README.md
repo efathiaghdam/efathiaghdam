@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Ebrahim Fathi Aghdam 👋</h1>
 
 <p align="center"> 
- <a href="https://twitter.com/efathiaghdam" alt="efathiaghdam twitter">
-   <img src="https://img.shields.io/badge/-@efathiaghdam-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
- </a>
+
  <a href="https://github.com/efathiaghdam" alt="efathiaghdam github">
    <img src="https://img.shields.io/badge/-@efathiaghdam-%23181717?style=flat-square&logo=github" />
  </a>
