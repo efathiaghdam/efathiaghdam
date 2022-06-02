@@ -34,19 +34,7 @@
    <a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="60px" alt="docker" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://angular.io">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" height="60px" alt="angular" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" height="60px" alt="typescript" style="vertical-align:top; margin:4px;">
-  </a>  
-  <a href="https://www.mysql.com/">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" height="60px" alt="mysql" style="vertical-align:top; margin:4px">
-  </a>
- <a href="https://www.postgresql.org/">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" height="60px" alt="postgresql" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.git.com">
+       <a href="https://www.git.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="60px" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.elastic.co" rel="nofollow">
@@ -61,6 +49,17 @@
   <a href="https://www.rabbitmq.com">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" height="60px" alt="rabbitmq" style="vertical-align:top; margin:4px">
   </a>
-   
+  <a href="https://angular.io">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" height="60px" alt="angular" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" height="60px" alt="typescript" style="vertical-align:top; margin:4px;">
+  </a>  
+  <a href="https://www.mysql.com/">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" height="60px" alt="mysql" style="vertical-align:top; margin:4px">
+  </a>
+ <a href="https://www.postgresql.org/">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" height="60px" alt="postgresql" style="vertical-align:top; margin:4px">
+  </a>   
 </p>
 <br/>
