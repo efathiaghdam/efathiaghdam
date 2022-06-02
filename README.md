@@ -22,14 +22,17 @@
 </p>
 
 <p align="center">
+    <a href="https://dotnet.microsoft.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="60" style="vertical-align:top; margin:4px;"
+  </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
-   <a href="https://dotnet.microsoft.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="60" style="vertical-align:top; margin:4px;"
+   <a href="https://hub.docker.com/">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="60px" alt="docker" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://angular.io">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" height="60px" alt="angular" style="vertical-align:top; margin:4px;">
@@ -42,9 +45,6 @@
   </a>
  <a href="https://www.postgresql.org/">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" height="60px" alt="postgresql" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://hub.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="60px" alt="docker" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.git.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="60px" alt="git-scm" style="vertical-align:top; margin:4px">
