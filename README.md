@@ -49,9 +49,6 @@
    <a href="https://www.rabbitmq.com">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" height="60px" alt="rabbitmq" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.github.com">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="60px" alt="github" style="vertical-align:top; margin:4px">
-  </a>
   <a href="https://www.git.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="60px" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
