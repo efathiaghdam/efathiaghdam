@@ -56,11 +56,5 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" height="60px" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>  
-  <a href="https://www.mysql.com/">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" height="60px" alt="mysql" style="vertical-align:top; margin:4px">
-  </a>
- <a href="https://www.postgresql.org/">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" height="60px" alt="postgresql" style="vertical-align:top; margin:4px">
-  </a>   
 </p>
 <br/>
