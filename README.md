@@ -13,7 +13,7 @@
  </a>
 </p>
 <blockquote>
-<p dir="auto">I’m a software Engineer with +9 years of experience working in the computer software industry.</p>
+<p dir="auto">I’m a software engineer with +9 years of experience working in the computer software industry.</p>
 </blockquote>
 
 <p align="center"> 
