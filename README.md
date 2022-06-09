@@ -34,7 +34,7 @@
    <a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="60px" alt="docker" style="vertical-align:top; margin:4px">
   </a>
-       <a href="https://www.git.com">
+  <a href="https://www.git.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="60px" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.elastic.co" rel="nofollow">
@@ -49,6 +49,7 @@
   <a href="https://www.rabbitmq.com">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" height="60px" alt="rabbitmq" style="vertical-align:top; margin:4px">
   </a>
+     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://angular.io">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" height="60px" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
