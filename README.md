@@ -14,6 +14,15 @@
 </p>
 <blockquote>
 <p dir="auto">I’m a software engineer with +9 years of experience working in the computer software industry.</p>
+ <ul dir="auto">
+<li>.Net Core, C#, ASP.NET Web API</li>
+<li>Angular, Vuejs, Typescript / Javascript, JQuery, Bootsrap, CSS3, HTML5</li>
+<li>Microsoft SQL Server, MongoDB, Entity Framework Core, Dapper</li>
+<li>Visual Studio / Code, GIT, TFS</li>
+<li>Clean, Onion Architecture / Event-Driven Architecture</li>
+<li>Domain-Driven Design and CQRS</li>
+<li>Test Driven Development (TDD)</li>
+</ul>
 </blockquote>
 
 <p align="center"> 
